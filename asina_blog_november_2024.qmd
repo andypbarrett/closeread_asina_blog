@@ -1,0 +1,133 @@
+---
+title: Darkening Skies in the North
+format:
+  closeread-html:
+    embed-resources: false
+---
+
+**MONDAY, November 4, 2024**
+
+:::{.cr-section}
+
+@cr-nh-extent-map As darkness extends southward across the Arctic.
+
+[@cr-nh-extent-map]{pan-to="10%,10%" scale-by="2.0"} Sea
+ice has advanced to much of the Russian shoreline.
+
+[@cr-nh-extent-map]{pan-to="-10%,-20%" scale-by="2.0"} But growth has
+been particularly slow in the Barents and Kara Seas.  The magenta line
+shows the 1981 to 2010 average extent for October.
+
+[@cr-nh-extent-map]{pan-to="20%,-20%" scale-by="2.0"} Sea ice is also particularly low in the Beaufort Sea, Baffin Bay, and the Canadian
+Archipelago.
+
+:::{#cr-nh-extent-map}
+![](images/n_extn_hires.png)
+:::
+
+@cr-sh-extent-map In the Antarctic, with the onset of spring, the pace of seasonal sea
+ice loss has increased.
+
+:::{#cr-sh-extent-map}
+![](images/s_extn_hires.png)
+:::
+
+@cr-nh-ts-october Average Arctic sea ice extent for the month of October was 5.94
+million square kilometers (2.29 million square miles), fourth lowest
+in the 46-year-satellite record and 610,000 square kilometers (236,000
+square miles) higher than 2020, the record low extent for the month
+
+:::{#cr-nh-ts-october}
+![](images/monthly_ice_10_nh_v3.01.png)
+:::
+
+@cr-nh-iqr_timeseries After a slow start early in October, Arctic sea ice extent quickly
+grew after mid-October; but, slowed again at the end of the month.
+
+:::{#cr-nh-iqr_timeseries}
+![](images/asina_n_iqr_timeseries1.png)
+:::
+
+@cr-nh-air-temp During October, much of the Arctic was markedly warmer than
+average.
+
+[@cr-nh-air-temp]{pan-to="20%,-10%" scale-by="2.0"} Air temperatures at
+the 925 hPa level (approximately 2,500 feet above the surface) were 6
+to 10 to degrees Celsius (11 to 18 degrees Fahrenheit) above average
+near the pole and north of Greenland and the Canadian Archipelago
+
+@cr-nh-air-temp Much of the rest of the Arctic was at least 2 degrees Celsius (4
+degrees Fahrenheit) above average
+
+[@cr-nh-air-temp]{pan-to="20%,-25%" scale-by="2.0"} The exception to
+this warmer Arctic, were the coastal areas of the Chukchi, East
+Siberian, and Laptev Seas, where average temperatures prevailed.
+
+:::{#cr-nh-air-temp}
+![](images/airtempoct.png)
+:::
+
+@cr-nh-slp Sea level pressure was low over most of the Arctic during October.
+
+[@cr-nh-slp]{pan-to="-20%,-50%" scale-by="1.5"} Distinct lows were centered over the Gulf of Alaska,
+
+[@cr-nh-slp]{pan-to="-25%,0%" scale-by="1.5"} the Canadian Archipelago,
+
+[@cr-nh-slp]{pan-to="5%,20%" scale-by="1.5"} and Svalbard.
+
+@cr-nh-slp This pressure pattern helped to push ice northwards in the Kara and
+Barents Seas and bring in warmer air towards the central Arctic Ocean.
+
+:::{#cr-nh-slp}
+![](images/slpoctober2024.png)
+:::
+
+@cr-nh-ts-october Including 2024, the downward linear trend in Arctic sea ice extent for
+October is 79,500 square kilometers (31,000 square miles) per year, or
+9.5 percent per decade relative to the 1981 to 2010 average. Based on
+the linear trend, since 1979, October has lost 3.58 million square
+kilometers (1.38 million square miles) of sea ice, which is roughly
+equivalent to five times the size of Texas or slightly more than the
+country of India.
+
+@cr-ao-index The Arctic Oscillation (AO) is a mode of climate variability that is a
+measure of the relative sea level pressure difference over the north
+polar region and the mid-latitudes. It has two phases. In the negative
+phase, there is relative higher pressure over the Arctic and lower
+pressures further south. In the positive phase, lower pressure reigns
+over the Arctic with higher pressure in the mid-latitudes. A positive
+AO during winter (January through March) has been associated with
+stronger advection of ice across the Arctic and out through Fram
+Strait (Rigor et al., 2002; Rigor and Wallace, 2004). This favors a
+thinner springtime ice cover, strong summer ice loss, and a low
+September minimum extent. A negative AO winter broadly favors the
+opposite effect. However, as the Arctic sea ice cover has thinned, the
+relationship between the winter AO and September extent seems to have
+weakened and summer minimum extents can be low even with a negative
+winter AO pattern (Stroeve et al., 2011).
+
+The AO phase is also expressed in terms of weather patterns in the
+mid-latitudes, particularly during winter. A negative AO tends to be
+associated with a “wavier” jet stream over the United States and
+Europe that can bring extreme weather to those regions. A positive AO
+pattern holds the polar air mass over the Arctic, resulting in less
+extreme mid-latitude winters.
+
+So far this fall, the AO has been highly variable, with a negative
+phase during the first half of October, followed by a strong positive
+phase during the second half of October, but moderating toward a
+neutral phase by the end of the month. Over the longer term, the
+winter AO (January-February-March average, the period of the most
+extensive sea ice) has trended mostly positive over the past decade;
+this is true for the annual average as well, with relatively few
+periods of strongly negative index values. However, the effect of this
+trend is unclear. There has been little trend in summertime sea ice
+extent minimums over the past 10 years.
+
+For more information on the AO, read [What is the Arctic Oscillation?](https://nsidc.org/learn/ask-scientist/what-arctic-oscillation)
+
+:::{#cr-ao-index}
+![](images/ao_nov2024.png)
+:::
+
+:::
